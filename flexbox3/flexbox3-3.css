@@ -1,0 +1,52 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.flex-container{
+    display: flex;
+    background-color: aqua;
+    height: 70px;
+    width: 35%;
+}
+
+.flex-container2{
+    display: flex;
+    flex-direction: row;
+    width: 35%;
+    height: 400px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+#narancs{
+    background-color: orange;
+    height: 400px;
+    width: 14%;
+}
+
+.flex-container3{
+    background-color: red;
+    height: 400px;
+    width: 60%;
+    align-content: center;
+}
+
+#fekete{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    margin-left: 150.5px;
+    margin-right: 182.5px;
+}
+
+#lila{
+    background-color: purple;
+    height: 400px;
+    width: 14%;
+}
+.flex-container4{
+    display: flex;
+    background-color: darkblue;
+    height: 70px;
+    width: 35%;
+}
